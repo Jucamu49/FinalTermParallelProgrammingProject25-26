@@ -1,4 +1,4 @@
-# Parallel Pattern Recognition (SAD) with Python
+# Parallel Pattern Recognition (SAD) with Python 
 
 This project implements a high-performance **Parallel Pattern Recognition** algorithm using the Sum of Absolute Differences (SAD) metric. 
 
