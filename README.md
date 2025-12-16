@@ -2,7 +2,7 @@
 
 This project implements a high-performance **Parallel Pattern Recognition** algorithm using the Sum of Absolute Differences (SAD) metric. 
 
-## 📋 Prerequisites
+## Prerequisites
 
 To run this project, you need:
 
@@ -16,7 +16,7 @@ This project relies on the following Python libraries:
 * **NumPy:** For high-performance array manipulations and AVX2 vectorization.
 * **Joblib:** For process-based parallel execution to bypass the GIL.
 
-## ⚙️ How to Run
+## How to Run
 
 Simply execute the main script from your terminal.
 Change of parameters:
